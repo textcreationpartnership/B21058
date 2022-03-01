@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On Thursday the 26. of this instant November, 1685. at the Auction-House in Ave-Mary-lane over against the Black Swan; will be exposed to sale to booksellers part of the stock of Mr. Richard Davis, bookseller of Oxford, by way of auction, containing these following books, viz.</title>
+            <author>Davis, Richard, fl. 1646-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21058</idno>
+            <idno type="STC">ESTC R42244</idno>
+            <idno type="OCLC"> 24704742</idno>
+            <idno type="STC">Wing D431</idno>
+            <idno type="STC">Interim Tract Supplement Guide 821.i.4.[15]</idno>
+            <idno type="STC">ESTC R42244</idno>
+            <idno type="STC">ESTC R214513</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R214513</idno>
+            <idno type="EEBO-CITATION">99884378</idno>
+            <idno type="PROQUEST">ocm99884378</idno>
+            <idno type="VID">194667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194667)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; D9:1[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On Thursday the 26. of this instant November, 1685. at the Auction-House in Ave-Mary-lane over against the Black Swan; will be exposed to sale to booksellers part of the stock of Mr. Richard Davis, bookseller of Oxford, by way of auction, containing these following books, viz.</title>
+                  <author>Davis, Richard, fl. 1646-1688.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Richard Davis by Wing.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Booksellers and bookselling --  England --  London --  Early works to 1800.</term>
+               <term>Catalogs, Booksellers' --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="auction_catalogue">
+            <pb n="1" facs="tcp:194667:1" rendition="simple:additions"/>
+            <head>On Thurſday the 26. of this inſtant <hi>November,</hi> 1685. at the Auction-Houſe in <hi>Ave-Mary</hi>-lane over againſt the Black Swan; will be expoſed to Sale to Bookſellers part of the Stock of Mr. <hi>Richard Davis,</hi> Bookſeller of <hi>Oxford,</hi> by way of Auction, containing theſe following Books, <hi>viz.</hi>
+            </head>
+            <list>
+               <head>Folio.</head>
+               <item>1. THE Works of the Reverend Dr. <hi>H. Hammond</hi> in four Vol. complete.</item>
+               <item>2. —Numbers of His Theological Tracts.</item>
+               <item>3. —Pharaphraſe on the <hi>Pſalms</hi> and <hi>Proverbs</hi> and Sermons, <hi>&amp;c.</hi>
+               </item>
+               <item>4. —Volume of Controverſial Pieces.</item>
+               <item>5. —Sermons of a large Paper.</item>
+               <item>6. Dr. <hi>Wallis</hi>'s Algebra with 11. braſs Cuts.</item>
+               <item>7. <hi>Weidelii</hi> Taburae Synopt. Med.</item>
+               <item>8. <hi>Brady</hi>'s Introduction to Engl. Hiſtory.</item>
+               <item>9. <hi>Cowell</hi>'s Interpreter, want X 1.</item>
+               <item>10. <hi>Wallis</hi> Cono Cuneus</item>
+               <item>11. —Sphaerical Triangles.</item>
+               <item>12. <hi>Mabillon</hi> de Re Diplomata.</item>
+               <item>13. <hi>Lindwood</hi> Provinciale.</item>
+               <item>14. <hi>Caſtelli</hi> Lexicon.</item>
+               <item>15. <hi>Robinſoni</hi> Annales.</item>
+               <item>16. <hi>Iamblichus</hi> de Myſter. Egypt.</item>
+               <item>17. <hi>Bowman</hi>'s Songs.</item>
+               <item>18. <hi>Maynes</hi> Lucian.</item>
+               <item>19. <hi>Killegrew</hi>'s four Plays.</item>
+               <item>20. —Imperial Tragedy.</item>
+               <item>21. <hi>Foulis</hi> Hiſt. of the pretended Saints.</item>
+               <item>22. Biſhop <hi>Sanderſon</hi>'s Viſitation Sermon.</item>
+               <item>23. <hi>Petry</hi>'s Church Hiſtory.</item>
+               <item>24. <hi>Harrington</hi>'s Oceana.</item>
+               <item>25. <hi>Jackſon</hi>'s three firſt Books on the Creed.</item>
+               <item>26. —Tenth Book on the Creed.</item>
+               <item>27. <hi>Baines</hi> on the Epheſians.</item>
+               <item>28. <hi>Burges</hi> on <hi>John</hi> firſt Epiſtle.</item>
+               <item>29. —on the <hi>Corinthians</hi> firſt Chap. ſecond Book.</item>
+               <item>30. —Third Chap. ſecond Book.</item>
+               <item>31. <hi>Atterſol</hi> on <hi>Philemon.</hi>
+               </item>
+               <item>32. <hi>Ball</hi>'s Power of Godlineſs.</item>
+               <item>33. <hi>Parr</hi> on the Romans.</item>
+               <item>34. <hi>Grotii</hi> Opera four Vol.</item>
+               <item>35. <hi>Marſhami</hi> Chronicon.</item>
+               <item>36. The Lords Letter to the Pope, with their Arms, 3 ſh.</item>
+            </list>
+            <list>
+               <head>Quarto.</head>
+               <item>1. P <hi>Simon</hi> Diſquiſitiones Criticae de Edit. Bibl.</item>
+               <item>2. <hi>Falkner</hi>'s two Treatiſes.</item>
+               <item>3. <hi>Ripleus</hi> de Menſtruis, <hi>&amp;c.</hi>
+               </item>
+               <item>4. —Harmony of Divinity and Law.</item>
+               <item>5. <hi>Suetonius</hi> in uſum Delphin.</item>
+               <item>6. —Examen Judiciorum.</item>
+               <item>7. <hi>Mather</hi> of the Types.</item>
+               <item>8. —Of Spiritual mindedneſs wants Title leaf.</item>
+               <item>9. Antiquitatibus Neomagenſes, wants Cc.</item>
+               <item>10. <hi>Milton</hi>'s Hiſtory of Britain, wants Title ſheet.</item>
+               <item>11. <hi>Gower</hi>'s Diſcourſe, Two Sermons.</item>
+               <item>12. <hi>Willis</hi> de Anima Brutorum, large Paper.</item>
+               <item>13. <hi>Godwin</hi>'s Jewiſh Antiquities.</item>
+               <item>14. <hi>Stubbe</hi>'s Cenſures of the Hiſt. R. Society</item>
+               <item>15. —Reply.</item>
+               <item>16. Benefits of our Saviour, by Mr. <hi>Walker.</hi>
+               </item>
+               <item>17. Notitia Oxonienſis.</item>
+               <item>18. <hi>Pocockii</hi> Hiſtoria Dynaſtiar.</item>
+               <item>19. —Porta <hi>Moyſis.</hi>
+               </item>
+               <item>20. <hi>Peirce</hi>'s Sermons 1ſt. Vol.</item>
+               <item>21. —Second Vol.</item>
+               <item>22. —Correct Copy.</item>
+               <item>23. <hi>Boyles</hi> Philoſophy firſt Vol.</item>
+               <item>24. —Second Tome.</item>
+               <item>25. <hi>Bulli</hi> Examen Cont. <hi>Tullium.</hi>
+               </item>
+               <item>26. <hi>Moxon</hi> on the Globes.</item>
+               <item>27. <hi>Stierii</hi> Tabulae Philoſoph.</item>
+               <item>28. <hi>Goar</hi> Catalogus rerum Heraldic.</item>
+               <pb n="2" facs="tcp:194667:2" rendition="simple:additions"/>
+               <item>29. <hi>Boyle</hi> of Cold.</item>
+               <item>30. <hi>Boyle</hi> of Air complete, 3. Parts.</item>
+               <item>31. <hi>Philpot</hi> for a county Regiſter 2 ſh.</item>
+               <item>32. <hi>Littleton</hi>'s Aſſize Sermon.</item>
+               <item>33. <hi>Sharrock</hi>'s Sermons.</item>
+               <item>34. <hi>Smith</hi>'s Sermon of Credibility of Chriſtian Religion.</item>
+               <item>35. —Latin Sermon.</item>
+               <item>36. <hi>Stoake</hi>'s two Sermons.</item>
+               <item>37. Biſhop <hi>Parry</hi>'s Sermon.</item>
+               <item>38. <hi>Prideux</hi> Introduction to Hiſtory.</item>
+               <item>39. <hi>Buridani</hi> Politica.</item>
+               <item>40. <hi>Parſon</hi>'s Sermon at the Lord <hi>Rocheſter</hi>'s Funeral.</item>
+               <item>41. Head of <hi>Nile.</hi>
+               </item>
+               <item>42. <hi>Wilſon</hi>'s Sermon, <hi>Jan.</hi> 30.</item>
+               <item>43. <hi>Hide</hi>'s Chriſtianity explained.</item>
+               <item>44. Tracts of ſeveral ſorts of Dr. <hi>Hammond.</hi>
+               </item>
+               <item>45. Propoſitions about Convex Glaſſes.</item>
+               <item>46. <hi>Wilſon</hi>'s Aires, three Parts.</item>
+               <item>47. Philoſophical Tranſactions, Num. 6.</item>
+               <item>48. —Num. 7.</item>
+               <item>49. —Num. 8.</item>
+               <item>50. <hi>Binion</hi>'s Aſſize Sermon.</item>
+               <item>51. <hi>Meggot</hi>'s Aſſize Sermon.</item>
+            </list>
+            <list>
+               <head>Octavo.</head>
+               <item>1. <hi>BLunt</hi>'s Animadverſions on <hi>Baker</hi>'s Chro<g ref="char:EOLhyphen"/>nicle.</item>
+               <item>2. <hi>Boyle</hi>'s Scept. Chymiſt.</item>
+               <item>3. — Of Flame and Air.</item>
+               <item>4. — Tracts about Saltneſs of the Sea, <hi>&amp;c.</hi>
+               </item>
+               <item>5. — Experiments about orig of Qualities, <hi>&amp;c.</hi>
+               </item>
+               <item>6. — Of Local motion.</item>
+               <item>7. — Of high veneration to God.</item>
+               <item>8. Experimentorum continuat. 2. de Aere.</item>
+               <item>9. Dr. <hi>Hammond</hi>'s Catechiſm.</item>
+               <item>10. <hi>Smith</hi>'s Account of the Greek Church.</item>
+               <item>11. — Epiſtolae 2. de moribus Turcarum, <hi>&amp;c.</hi>
+               </item>
+               <item>12. — Epiſtolae quatuor.</item>
+               <item>13. <hi>Aſhwell</hi> de <hi>Socino.</hi>
+               </item>
+               <item>14. —On the Creed.</item>
+               <item>15. — Lord's Supper.</item>
+               <item>16. <hi>Fabricius</hi> de unitate Eccleſiae Britan.</item>
+               <item>17. <hi>Lactantii</hi> Opera. <hi>Oxon.</hi>
+               </item>
+               <item>18. <hi>Zoſimi</hi> Hiſt. Gr. Lat.</item>
+               <item>19. <hi>Morrice</hi> againſt <hi>Baxter.</hi>
+               </item>
+               <item>20. <hi>Pierce</hi>'s Corpuſculum Theologicum cum Append.</item>
+               <item>21. Notitia Hiſt. or Animadv. on Hiſtorians.</item>
+               <item>22. <hi>Wilkinſon</hi>'s Character of a ſincere Heart.</item>
+               <item>23. Dr. <hi>Mayne</hi>'s Amorous Warr, a Play.</item>
+               <item>24. — City Match, a Play.</item>
+               <item>25. <hi>Hildebrandi</hi> Antiquitates Rom.</item>
+               <item>26. <hi>Pocockii</hi> Carm. Tograi, &amp; Proſodia Perſ.</item>
+               <item>27. <hi>Carpentarii</hi> Philoſ. Libera.</item>
+               <item>28. <hi>Sanderſoni</hi> Logica.</item>
+               <item>29. <hi>Innocent</hi> IX. his Decrees. 3 ſh. ¼.</item>
+               <item>30. <hi>Ovid</hi>'s Invective againſt <hi>Ibis.</hi>
+               </item>
+               <item>31. <hi>Holland</hi>'s Globe Notes. 2 ſh.</item>
+               <item>32. — Parallax of a Comet. 2 ſh.</item>
+               <item>33. Devil of <hi>Maſcon.</hi> 2 ſh.</item>
+               <item>34. Synopſis earum Rerum Orator. <hi>&amp;c.</hi>
+               </item>
+               <item>35. — Of <hi>Lilly</hi>'s Grammar.</item>
+               <item>36. <hi>Sallii</hi> Ethica.</item>
+               <item>37. <hi>Boëtius</hi>'s Summum Bonum (Engliſh.)</item>
+               <item>38. <hi>Staunton</hi>'s Life (Appendix) 1 ſh.</item>
+               <item>39. <hi>Willis</hi>'s Pharmaceut. both parts.</item>
+               <item>40. <hi>Clark</hi> in Clavem Mathemat. <hi>Oughtredi.</hi>
+               </item>
+               <item>41. <hi>Ridley</hi>'s View of the Law.</item>
+               <item>42. <hi>Barrow</hi> in <hi>Euclidem.</hi>
+               </item>
+               <item>43. Monarchia Britannica.</item>
+               <item>44. <hi>Knatchbull</hi> in Novum Teſtamentum.</item>
+               <item>45. <hi>Nemeſius</hi> de Nat. Hominis, Gr. Lat.</item>
+               <item>46. <hi>Diaconi</hi> Epit. <hi>Ariſt.</hi> Log. Gr. Lat.</item>
+               <item>47. <hi>Bogan</hi> Comparatio <hi>Homeri,</hi> Gr. Lat.</item>
+               <item>48. —Mirth of a Chriſtian Life.</item>
+               <item>49. <hi>Dugdale</hi>'s Catalogue of Nobility.</item>
+               <item>50. <hi>Fauſtinus</hi> Presb. adv. Arianos.</item>
+               <item>51. <hi>Xenophontis</hi> Curiopoedia Grae. Oxon.</item>
+               <item>52. <hi>Alcinoi</hi> in <hi>Plat.</hi> ſeu de Doctrina <hi>Plato<g ref="char:EOLhyphen"/>nis,</hi> Gr. Lat.</item>
+               <item>53. <hi>Lovell</hi>'s Hiſtory of Animals, <hi>&amp;c.</hi>
+               </item>
+               <item>54. <hi>Sharrock</hi> of Vegetables (firſt Edit.)</item>
+               <item>55. — Idem (ſecond Edit. 1671.)</item>
+               <item>56. <hi>Twell</hi>'s additional Rules to Ox. Gram.</item>
+               <item>57. <hi>Pool</hi>'s nullity of the Roman Faith.</item>
+               <item>58. <hi>Whitby</hi> againſt Sure-footing.</item>
+               <item>59. <hi>Oughtred</hi>'s Circles of Proportion.</item>
+               <item>60. Pueriles Confab. Gr. Lat.</item>
+               <item>61. <hi>Baley</hi> of Eye-ſight. 2 ſh.</item>
+               <item>62. <hi>Powelli</hi> Analyſis <hi>Ariſt.</hi> de Sophiſt. El</item>
+               <item>63. <hi>Bacon</hi>'s Catechiſm.</item>
+               <item>64. Eloquence of theſe Times.</item>
+               <item>65. — <hi>Demoſth.</hi> and <hi>Cicero</hi> compar'd.</item>
+               <item>66. <hi>Acontii</hi> Strategemata.</item>
+               <item>67. <hi>Bleau</hi> de Globis.</item>
+               <item>68. <hi>Edmunſoni</hi> Synonyma Ling. Lat.</item>
+               <item>69. Biſhop of <hi>Cork</hi>'s Form of Godlineſs.</item>
+               <item>70. <hi>Raadt</hi> de Punctat. Hebraice.</item>
+               <item>71. God's Revenge againſt Murther.</item>
+               <item>72. <hi>Norris</hi> of Conventicles.</item>
+               <item>73. <hi>Wendelini</hi> Politica.</item>
+               <item>74. E. <hi>Clarendon</hi>'s defence of <hi>Stillingfleet.</hi>
+               </item>
+               <pb facs="tcp:194667:3"/>
+               <pb n="3" facs="tcp:194667:3"/>
+               <item>75. Myſteries of Love and Eloquence.</item>
+               <item>76. <hi>Scheibleri</hi> Compendium, Edit. nova.</item>
+            </list>
+            <list>
+               <head>Twelves.</head>
+               <item>1. <hi>Andrews</hi>'s Praeces, Gr. Lat.</item>
+               <item>2. <hi>Gardineri</hi> Orationes.</item>
+               <item>3. <hi>Min. Foelix</hi> notis Var.</item>
+               <item>4. <hi>Lactantius</hi> de Mort. perſecut.</item>
+               <item>5. <hi>Burgerſdicii</hi> Metaph.</item>
+               <item>6. — Ethicae Polit. Eoconom.</item>
+               <item>7. <hi>Boyle</hi> Tract. de Qualit. rerum Coſmicis.</item>
+               <item>8. — de Stylo ſanctae Script.</item>
+               <item>9. —de Orig. Formarum Qualit.</item>
+               <item>10. —Paradoxa Hydroſtat. cum figuris.</item>
+               <item>11. —Debita Deo,</item>
+               <item>12. Statuta Oxonienſis.</item>
+               <item>13. <hi>Jones</hi> Proluſiones Acad.</item>
+               <item>14. <hi>Oxford</hi> Grammar.</item>
+               <item>15. <hi>M. Antoninus</hi> Gr. Lat.</item>
+               <item>16. <hi>Tozer</hi>'s Directions to the Sacrament.</item>
+               <item>17. <hi>Ellis</hi> Gentile Sinner.</item>
+               <item>18. <hi>Virgilius Minellii.</hi>
+               </item>
+               <item>19. <hi>Willis</hi> Pharmaceut. Pars. II. n.</item>
+               <item>20. <hi>Livii</hi> Hiſt. <hi>Amſt.</hi> 1678.</item>
+               <item>21. <hi>Low</hi>'s Direct. for Cath. Service.</item>
+               <item>22. <hi>Stoke</hi>'s Direct for private Devotions.</item>
+               <item>23. <hi>Croſs</hi> de Feb. intermit.</item>
+               <item>24. <hi>Galateus</hi> de Moribus, &amp; <hi>Bartholin.</hi>
+               </item>
+               <item>25. <hi>Pavonii</hi> Ethica.</item>
+               <item>26. <hi>Boetius</hi> de Conſ. Philoſ.</item>
+               <item>27. <hi>Combachii</hi> Metaph.</item>
+               <item>28. <hi>Potteri</hi> Theſes Quadrag. Philoſ. nova.</item>
+               <item>29. <hi>Stradoe</hi> Proluſiones.</item>
+               <item>30. Spiritual Bee.</item>
+               <item>31. <hi>Vernivil</hi>'s Nomenclator.</item>
+               <item>32. <hi>Drexellius</hi> of Eternity. (Welch)</item>
+               <item>33. <hi>Pink</hi>'s Trial of Chriſtian Love.</item>
+               <item>34. <hi>Brevint</hi> of the Sacrament.</item>
+               <item>35. <hi>Muy</hi>'s Chyrurgia, Pars I.</item>
+               <item>36. — Pars II.</item>
+               <item>37. Mercure de Holland. 1682.</item>
+               <item>38. <hi>Ivon</hi> Doctrine du Baptime.</item>
+               <item>39. <hi>Hoboken</hi> Ductus Salivalis.</item>
+               <item>40. Hiſtory of Women.</item>
+               <item>41. <hi>London</hi> Bully.</item>
+               <item>42. Hiſtorians Guide.</item>
+               <item>43. Perplexed Princeſs.</item>
+               <item>44. <hi>Tachenii</hi> Clavis Med. Hippocrat. Paris.</item>
+               <item>45. Preſent ſtate of <hi>London.</hi>
+               </item>
+               <item>46. Whip for the Devil.</item>
+               <item>47. <hi>Patrick</hi>'s Help to Young Communi<g ref="char:EOLhyphen"/>cants 24.</item>
+            </list>
+         </div>
+         <div type="conditions_of_sale">
+            <pb facs="tcp:194667:4"/>
+            <head>Conditions of Sale.</head>
+            <p n="1">I. THAT he who bids moſt is the Buyer, and if any diffe<g ref="char:EOLhyphen"/>rence do ariſe which the Company cannot decide, the ſaid Book of Books to be e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſed again to ſale.</p>
+            <p n="2">II. That the ſaid Book o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Books ſo ſold are to be paid for and taken away on or before the 26th day of <hi>March,</hi> 1686. But for the farther incouragement of the reſpective Buyer, ſuch Perſon or Perſons that ſhall pay for and take away their Books on or before the 26th of <hi>December</hi> 1685. following, ſhall have three Pounds <hi>per Cent.</hi> allowed them by way of diſcount.</p>
+            <p n="3">III. Such Perſon or Perſons that ſhall pay for and take away the Books they have bought on or before the 26th day of <hi>Janu<g ref="char:EOLhyphen"/>ary</hi> following, ſhall have two Pounds <hi>per Cent.</hi> allowed them by way of diſcount.</p>
+            <p n="4">IV. Such Perſon or Perſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that ſhall pay <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Books they have bought on or before the 26th day of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> following ſhall have one Pound <hi>per Cent.</hi> allowed them by way of diſcount.</p>
+            <p>After that time no allowance to be made by way of diſcount.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
